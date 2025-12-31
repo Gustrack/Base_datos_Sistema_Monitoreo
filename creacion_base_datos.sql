@@ -11,7 +11,8 @@ USE monitoreo_maquinas;
 
 -- =============================================
 -- TABLA: MAQUINAS
--- Almacena la información de las máquinas herramienta
+-- Almacena la información de las máquinas 
+
 -- =============================================
 CREATE TABLE MAQUINAS (
     id_maquina INT AUTO_INCREMENT PRIMARY KEY,
